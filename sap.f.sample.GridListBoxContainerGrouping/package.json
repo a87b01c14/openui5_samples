@@ -1,0 +1,13 @@
+{
+  "name": "sap-f-sample--grid-list-box-container-grouping",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Grid List features - Grouping, Header, Growing",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

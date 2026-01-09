@@ -1,0 +1,13 @@
+{
+  "name": "sap-ui-core-sample--view-async",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Async View loading and rendering",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

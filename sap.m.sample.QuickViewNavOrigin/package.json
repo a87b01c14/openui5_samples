@@ -1,0 +1,13 @@
+{
+  "name": "sap-m-sample--quick-view-nav-origin",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: QuickView with Navigation and Data Binding",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

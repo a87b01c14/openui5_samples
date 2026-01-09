@@ -1,0 +1,13 @@
+{
+  "name": "sap-m-sample--avatar-value-state",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Avatar with badgeValueState",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

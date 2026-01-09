@@ -1,0 +1,15 @@
+{
+	"sap.app": {
+		"id": "sap.m.sample.Table",
+		"applicationVersion": {
+			"version": "1.0.0"
+		}
+	},
+	"sap.ui5": {
+		"rootView": {
+			"viewName": "sap.m.sample.Table.Table",
+			"type": "XML",
+			"async": true
+		}
+	}
+}

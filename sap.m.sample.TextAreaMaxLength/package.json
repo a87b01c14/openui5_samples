@@ -1,0 +1,13 @@
+{
+  "name": "sap-m-sample--text-area-max-length",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: TextArea with MaxLength = true",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "sap-m-sample--standard-margins-collapse",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Collapsing Margins",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

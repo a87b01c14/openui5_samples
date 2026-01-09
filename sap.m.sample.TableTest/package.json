@@ -1,0 +1,13 @@
+{
+  "name": "sap-m-sample--table-test",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Table Test with OPA",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

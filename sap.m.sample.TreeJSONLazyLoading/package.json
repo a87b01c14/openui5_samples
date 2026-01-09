@@ -1,0 +1,13 @@
+{
+  "name": "sap-m-sample--tree-j-s-o-n-lazy-loading",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Tree - Lazy loading with a JSON model",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

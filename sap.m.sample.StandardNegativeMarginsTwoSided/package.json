@@ -1,0 +1,13 @@
+{
+  "name": "sap-m-sample--standard-negative-margins-two-sided",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Negative Margins",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

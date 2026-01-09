@@ -1,0 +1,13 @@
+{
+  "name": "sap-m-sample--single-planning-calendar-recurring-item",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Single Planning Calendar with Recurring Calendar Items",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

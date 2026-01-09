@@ -1,0 +1,13 @@
+{
+  "name": "sap-m-sample--standard-margins-all",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Margins All Around",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

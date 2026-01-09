@@ -1,0 +1,13 @@
+{
+  "name": "sap-m-sample--notification-list-group-bindings",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Notification List Group with data bindings",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

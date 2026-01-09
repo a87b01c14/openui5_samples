@@ -1,0 +1,13 @@
+{
+  "name": "sap-m-sample--tab-container-icons",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Tab Container - with icons and additional text",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

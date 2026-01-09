@@ -1,0 +1,13 @@
+{
+  "name": "sap-m-sample--standard-list-item-info-state-inverted",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Standard List Item - Info State Inverted",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

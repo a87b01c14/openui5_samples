@@ -1,0 +1,13 @@
+{
+  "name": "sap-ui-layout-sample--simple-form_-column_one-group",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Fullscreen – one group using ColumnLayout",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

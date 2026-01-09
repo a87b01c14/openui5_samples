@@ -1,0 +1,13 @@
+{
+  "name": "sap-ui-codeeditor-sample--code-editor",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Code Editor",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "sap-m-sample--table",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Table - Columns",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

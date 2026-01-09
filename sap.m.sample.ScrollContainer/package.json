@@ -1,0 +1,13 @@
+{
+  "name": "sap-m-sample--scroll-container",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Scroll Container",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

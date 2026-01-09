@@ -1,0 +1,13 @@
+{
+  "name": "sap-ui-core-sample--opa-static-area-controls",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Retrieving controls located in the static area with OPA5",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

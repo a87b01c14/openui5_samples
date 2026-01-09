@@ -1,0 +1,13 @@
+{
+  "name": "sap-ui-core-sample--x-m-l-composite-02",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: XMLComposite: example showing usage of aggregation",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

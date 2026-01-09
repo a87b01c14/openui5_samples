@@ -1,0 +1,13 @@
+{
+  "name": "sap-m-sample--overflow-toolbar-footer",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Overflow Toolbar - in a table and in the footer of a page",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

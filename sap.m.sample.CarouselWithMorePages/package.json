@@ -1,0 +1,13 @@
+{
+  "name": "sap-m-sample--carousel-with-more-pages",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Carousel with Multiple Items at Once",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

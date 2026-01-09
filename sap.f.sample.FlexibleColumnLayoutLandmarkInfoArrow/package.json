@@ -1,0 +1,13 @@
+{
+  "name": "sap-f-sample--flexible-column-layout-landmark-info-arrow",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Flexible Column Layout Landmark Info For Arrows",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

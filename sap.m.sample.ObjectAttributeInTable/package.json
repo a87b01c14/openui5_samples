@@ -1,0 +1,13 @@
+{
+  "name": "sap-m-sample--object-attribute-in-table",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Object Attribute inside Table",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

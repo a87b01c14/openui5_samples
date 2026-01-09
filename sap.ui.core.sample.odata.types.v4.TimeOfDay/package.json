@@ -1,0 +1,13 @@
+{
+  "name": "sap-ui-core-sample-odata-types-v4--time-of-day",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: OData V4 Times - Use sap.ui.model.odata.type.TimeOfDay for Edm.TimeOfDay",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

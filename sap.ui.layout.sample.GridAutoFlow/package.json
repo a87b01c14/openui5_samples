@@ -1,0 +1,13 @@
+{
+  "name": "sap-ui-layout-sample--grid-auto-flow",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Controlling Empty Spaces Within the Grid",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

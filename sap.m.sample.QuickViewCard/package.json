@@ -1,0 +1,13 @@
+{
+  "name": "sap-m-sample--quick-view-card",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: QuickViewCard",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

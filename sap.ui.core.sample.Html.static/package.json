@@ -1,0 +1,13 @@
+{
+  "name": "sap-ui-core-sample--html-static",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Static HTML Provided as a String",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

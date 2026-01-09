@@ -1,0 +1,13 @@
+{
+  "name": "sap-m-sample--icon-tab-bar-inline-mode",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Icon Tab Bar - Inline Mode",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

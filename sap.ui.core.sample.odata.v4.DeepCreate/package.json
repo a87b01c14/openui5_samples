@@ -1,0 +1,13 @@
+{
+  "name": "sap-ui-core-sample-odata-v4--deep-create",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Deep Create Handling",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

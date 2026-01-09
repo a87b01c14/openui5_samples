@@ -1,0 +1,13 @@
+{
+  "name": "sap-ui-layout-sample--c-s-s-grid",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: CSSGrid",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "sap-m-sample--single-planning-calendar-with-legend",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Single Planning Calendar with Legend and defined working hours",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

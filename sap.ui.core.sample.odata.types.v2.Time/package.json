@@ -1,0 +1,13 @@
+{
+  "name": "sap-ui-core-sample-odata-types-v2--time",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: OData V2 Times - Use sap.ui.model.odata.type.Time for Edm.Time",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

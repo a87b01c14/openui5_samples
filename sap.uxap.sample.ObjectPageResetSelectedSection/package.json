@@ -1,0 +1,13 @@
+{
+  "name": "sap-uxap-sample--object-page-reset-selected-section",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Object Page reseting the selected section to the first visible section",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

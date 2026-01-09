@@ -1,0 +1,13 @@
+{
+  "name": "sap-m-sample--generic-tile-as-launch-tile",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Launch Tile",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

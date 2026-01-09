@@ -1,0 +1,14 @@
+specVersion: "4.0"
+metadata:
+  name: sap-f-sample--grid-list-box-container-real
+type: application
+framework:
+  name: OpenUI5
+  version: "1.133.0"
+  libraries:
+    - name: themelib_sap_horizon
+    - name: sap.f
+    - name: sap.m
+    - name: sap.tnt
+    - name: sap.ui.core
+    - name: sap.ui.layout

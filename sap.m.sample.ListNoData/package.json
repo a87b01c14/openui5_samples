@@ -1,0 +1,13 @@
+{
+  "name": "sap-m-sample--list-no-data",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: List - No Data Indication",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

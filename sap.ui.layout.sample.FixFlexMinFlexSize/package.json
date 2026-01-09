@@ -1,0 +1,13 @@
+{
+  "name": "sap-ui-layout-sample--fix-flex-min-flex-size",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Fix Flex - Vertical Direction with minFlexSize",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

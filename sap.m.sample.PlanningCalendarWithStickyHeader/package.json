@@ -1,0 +1,13 @@
+{
+  "name": "sap-m-sample--planning-calendar-with-sticky-header",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Planning Calendar - with header that remains visible (fixed on top) on scroll",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

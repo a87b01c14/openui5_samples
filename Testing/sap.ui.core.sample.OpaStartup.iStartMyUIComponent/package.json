@@ -1,0 +1,13 @@
+{
+  "name": "sap-ui-core-sample--opa-startup-i-start-my-u-i-component",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Starting a UIComponent",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

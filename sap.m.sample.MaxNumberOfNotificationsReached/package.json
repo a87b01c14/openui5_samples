@@ -1,0 +1,13 @@
+{
+  "name": "sap-m-sample--max-number-of-notifications-reached",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Notification List Group with max number of notifications reached",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

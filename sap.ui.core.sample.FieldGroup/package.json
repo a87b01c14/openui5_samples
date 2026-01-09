@@ -1,0 +1,13 @@
+{
+  "name": "sap-ui-core-sample--field-group",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Field Groups",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

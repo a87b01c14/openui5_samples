@@ -1,0 +1,13 @@
+{
+  "name": "sap-m-sample--dynamic-date-range-with-custom-options",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Dynamic Date Range with Custom Options",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

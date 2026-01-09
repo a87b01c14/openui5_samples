@@ -1,0 +1,13 @@
+{
+  "name": "sap-m-sample--toolbar-responsive",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Toolbar - Responsive",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

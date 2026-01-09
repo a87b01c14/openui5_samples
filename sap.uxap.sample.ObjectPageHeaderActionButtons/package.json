@@ -1,0 +1,13 @@
+{
+  "name": "sap-uxap-sample--object-page-header-action-buttons",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Object Page with ObjectPageHeaderActionButtons",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

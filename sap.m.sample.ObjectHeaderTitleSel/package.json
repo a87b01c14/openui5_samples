@@ -1,0 +1,13 @@
+{
+  "name": "sap-m-sample--object-header-title-sel",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Object Header - Select Title",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

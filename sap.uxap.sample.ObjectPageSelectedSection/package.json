@@ -1,0 +1,13 @@
+{
+  "name": "sap-uxap-sample--object-page-selected-section",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Object Page with predefined selected section in Tab navigation mode",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

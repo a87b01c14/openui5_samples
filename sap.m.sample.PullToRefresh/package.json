@@ -1,0 +1,13 @@
+{
+  "name": "sap-m-sample--pull-to-refresh",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Pull To Refresh",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

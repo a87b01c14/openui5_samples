@@ -1,0 +1,13 @@
+{
+  "name": "sap-m-sample--message-strip-with-enable-formatted-text",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Message Strip with enableFormattedText",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

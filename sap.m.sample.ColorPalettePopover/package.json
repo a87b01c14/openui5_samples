@@ -1,0 +1,13 @@
+{
+  "name": "sap-m-sample--color-palette-popover",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Color Palette as popover",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "sap-m-sample--input-key-value",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Input - Key and Value",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}

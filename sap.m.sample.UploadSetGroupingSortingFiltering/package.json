@@ -1,0 +1,13 @@
+{
+  "name": "sap-m-sample--upload-set-grouping-sorting-filtering",
+  "version": "1.0.0",
+  "author": "SAP SE",
+  "description": "Sample: Upload Set with Grouping, Sorting and Filtering Feature",
+  "scripts": {
+    "start": "ui5 serve",
+    "build": "ui5 build"
+  },
+  "devDependencies": {
+    "@ui5/cli": "^4"
+  }
+}
